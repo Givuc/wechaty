@@ -127,7 +127,7 @@
     "finis": "^0.4.1",
     "fluent-ffmpeg": "^2.1.0",
     "git-scripts": "git+https://github.com/nkzawa/git-scripts.git",
-    "gl-matrix": "^2.6.1",
+    "gl-matrix": "^3.0.0",
     "glob": "^7.1.0",
     "is-pr": "^1.0.0",
     "jsdoc-to-markdown": "^4.0.0",
@@ -142,7 +142,7 @@
     "ts-node": "^8.0.2",
     "tslint": "^5.11.0",
     "tslint-config-standard": "^8.0.0",
-    "tuling123-client": "^0.0.2",
+    "tuling123-client": "^0.0.3",
     "typedoc": "^0.14.0",
     "typescript": "^3.1.0-dev.20180731",
     "wechaty-puppet-mock": "^0.14.1"
